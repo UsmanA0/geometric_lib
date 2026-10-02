@@ -1,11 +1,11 @@
 def area(a, b):
-    '''Accepts the square of a rectangle and returns its area'''
+    '''Accepts the rectangle of a rectangle and returns its area'''
 
     return a * b 
 
 
 def perimeter(a, b): 
-    '''Accepts the square of a rectangle and returns its perimeter'''
+    '''Accepts the rectangle of a rectangle and returns its perimeter'''
 
-    return a + b 
+    return (2 * a) + (2 * b)
 
